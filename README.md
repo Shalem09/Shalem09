@@ -45,4 +45,4 @@ WHAT I CARE ABOUT
 CONTACT
 ------------------------------------------------------------
 GitHub: https://github.com/Shalem09
-LinkedIn: (add your LinkedIn profile link here)
+LinkedIn: https://www.linkedin.com/in/orshalem
