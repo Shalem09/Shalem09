@@ -44,5 +44,5 @@ WHAT I CARE ABOUT
 ------------------------------------------------------------
 CONTACT
 ------------------------------------------------------------
-GitHub: https://github.com/Shalem09
-LinkedIn: https://www.linkedin.com/in/orshalem
+- GitHub: https://github.com/Shalem09
+- LinkedIn: https://www.linkedin.com/in/orshalem
