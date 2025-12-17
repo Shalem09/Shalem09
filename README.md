@@ -1,4 +1,4 @@
-Hi, I'm Shalem 👋
+Hi, I'm Or Shalem 👋
 
 Junior Software Developer with a strong focus on Object-Oriented Programming (OOP),
 clean architecture, and building real, end-to-end applications.
